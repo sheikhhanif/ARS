@@ -1,2 +1,2 @@
-# LSTM_Acitivity-Recognition
-Human Activity Recognition using Long-Short-Term-Memory (LSTM)
+## Performance comparison btween RNN and LSTM
+
